@@ -1,2 +1,6 @@
 # InchesToMetersConvertor
-ANDROID STUDIO LinearLayout|ImageView|EditText|Button|TextView|
+
+ANDROID STUDIO 
+ToastMessage|LinearLayout|ImageView|EditText|Button|TextView|
+
+*APK is the Release section*
